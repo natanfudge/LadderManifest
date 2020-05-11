@@ -1,0 +1,19 @@
+{
+    "id": "modid",
+    "version": "vers",
+    "environment": null,
+    "entrypoints": null,
+    "depends": null,
+    "recommends": null,
+    "suggests": null,
+    "breaks": null,
+    "conflicts": null,
+    "name": "name",
+    "description": "desc",
+    "contact": null,
+    "authors": null,
+    "contributors": null,
+    "license": null,
+    "icon": null,
+    "custom": null
+}

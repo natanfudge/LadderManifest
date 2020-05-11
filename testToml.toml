@@ -1,0 +1,15 @@
+modLoader = "javafml"
+loaderVersion = "forgeversion"
+
+[[mods]]
+modId = "modid"
+version = "vers"
+displayName = "name"
+description = "desc"
+
+[[dependencies.b]]
+modId = "c"
+mandatory = true
+versionRange = "d"
+ordering = "None"
+side = "Both"
